@@ -1,0 +1,8 @@
+{
+  "name": "Cal.ai Clone",
+  "description": "A sleek, black-and-white minimalist calorie tracker powered by Gemini AI for food recognition and nutrition research.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
